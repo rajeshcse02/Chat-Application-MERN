@@ -4,6 +4,8 @@ A modern, production-ready **Realtime Chat App** built using the **MERN stack**,
 
 ---
 
+![Demo App](/frontend/public/screenshot-for-readme.png)
+
 ## 🚀 Features
 
 - ⚡ **Real-time Messaging** using [Socket.io](w)  
@@ -109,11 +111,5 @@ npm run build
 - 🕹️ Emojis & Reactions  
 - 📦 File sharing support  
 - 🖼️ Image preview in chat  
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, contribute, and modify.
 
 ---
